@@ -1,0 +1,11 @@
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.deps.json
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.dll
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.AssemblyInfoInputs.cache
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.AssemblyInfo.cs
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.dll
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/refint/TaskManagement.Domain.dll
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/rodrigonunes/Documents/Src/RN/MeuGitHub/Github/task-management-system/src/TaskManagement.Domain/obj/Debug/net8.0/ref/TaskManagement.Domain.dll
